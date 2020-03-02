@@ -1,0 +1,4 @@
+- Install annaconda
+- Create new env using python 3
+- Install opencv
+- Install jupyter notebook
